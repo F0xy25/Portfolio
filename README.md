@@ -68,4 +68,11 @@ Python Packages:
 - 
 
 
+Current and Past Projects:
+
+- <insert link to instagram scraping project>
+- <insert link to Turtlebot/ROS project>
+- <insert link to Pill Container Project>
+
+
 This is neat. I hope this works! 
