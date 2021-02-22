@@ -1,7 +1,7 @@
-## ABOUT ME
 
 
-# Gavin Fox
+
+## Gavin Fox
 LinkedIn: www.linkedin.com/in/gavin-fox4
 Email: 4gdfox@gmail.com
 
@@ -16,13 +16,14 @@ Email: 4gdfox@gmail.com
 - Image Processing/Segmentation
 - Gaze Detection
 - LDA(Latent Dirichlet Allocation)
+- Human Subject Research
 - Temporal Feature Extraction
 - Neural Network Development
 - Camera 2D depth perception
 - IoT SMS network development
 - MicroControllers and Single Board Computers
 - Node based collaboration analysis
-- temporal and location based hotspot mapping
+- Temporal and location based hotspot mapping
 - Data collection and Study Management
 - Commercial Development
 - TensorFlow, TensorRT, and TensorLite
