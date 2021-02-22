@@ -17,16 +17,17 @@ Email: 4gdfox@gmail.com
 - Gaze Detection
 - LDA(Latent Dirichlet Allocation)
 - Human Subject Research
+- Product Commercialization and 
 - Temporal Feature Extraction
 - Neural Network Development
-- Camera 2D depth perception
-- IoT SMS network development
+- Camera 2D Depth Perception
+- IoT SMS Network Development
 - MicroControllers and Single Board Computers
-- Node based collaboration analysis
+- Node-Based Collaboration Analysis
+- Foreign entity Market Penetration
 - Temporal and location based hotspot mapping
 - Data collection and Study Management
-- Commercial Development
-- TensorFlow, TensorRT, and TensorLite
+- ML Model deployment using TensorFlow, TensorRT, and TensorLite
 
 # Programming Languages and Structures:
 - Python
@@ -73,6 +74,6 @@ Email: 4gdfox@gmail.com
 
 # Projects:
 
-- <insert link to instagram scraping project>
-- <insert link to Turtlebot/ROS project>
-- <insert link to Pill Container Project> 
+- 3D Photogrammetry using Social Media image data
+- Automated Paycheck allocation tool
+- Dobot Magician software package: convert from top-down cartesian to free plane coordinates 
