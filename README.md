@@ -2,12 +2,12 @@
 
 
 # Gavin Fox
-[LinkedIn](www.linkedin.com/in/gavin-fox4)
+LinkedIn: www.linkedin.com/in/gavin-fox4
 
 # Certifications
-US Government Security Clearance Level: Secret
-CITI: Human Subjects Research Certification
-CITI: Biomedical Research Certification
+- US Government Security Clearance Level: Secret
+- CITI: Human Subjects Research Certification
+- CITI: Biomedical Research Certification
 
 # Topics of Experience:
 
