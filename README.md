@@ -10,24 +10,23 @@ Email: 4gdfox@gmail.com
 - CITI: Human Subjects Research Certification
 - CITI: Biomedical Research Certification
 
-# Topics of Experience:
+# Topics of Experience(in order of specification):
 
+- Human Subject Research
+- Product Commercialization
 - Object Detection
 - Image Processing/Segmentation
 - Gaze Detection
-- LDA(Latent Dirichlet Allocation)
-- Human Subject Research
-- Product Commercialization and 
+- MicroControllers and Single Board Computers
 - Temporal Feature Extraction
-- Neural Network Development
+- ML Model deployment using TensorFlow, TensorRT, and TensorLite
 - Camera 2D Depth Perception
 - IoT SMS Network Development
-- MicroControllers and Single Board Computers
 - Node-Based Collaboration Analysis
 - Foreign entity Market Penetration
 - Temporal and location based hotspot mapping
 - Data collection and Study Management
-- ML Model deployment using TensorFlow, TensorRT, and TensorLite
+
 
 # Programming Languages and Structures:
 - Python
@@ -69,6 +68,8 @@ Email: 4gdfox@gmail.com
 - Arduino 
 - Garmin Fenix 6
 - Oura Ring
+- Dobot Magician
+- Turtlebot Burger
 - 
 
 
