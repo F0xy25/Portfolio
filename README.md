@@ -1,12 +1,12 @@
-# ABOUT ME
+## ABOUT ME
 
 
-Name:
-Gavin Fox
+# Gavin Fox
 
 US Government Security Clearance Level: Secret
 
-Topics of Experience:
+# Topics of Experience:
+
 - Object Detection
 - Image Processing/Segmentation
 - Gaze Detection
@@ -17,7 +17,7 @@ Topics of Experience:
 - IoT SMS network development
 - MicroControllers and Single Board Computers
 
-Programming Languages and Structures:
+# Programming Languages and Structures:
 - Python
 - C++
 - ROS
@@ -28,13 +28,15 @@ Programming Languages and Structures:
   - EC2
   - Lambda
   - API Gateway
-- Neo4j Cypher
+  - Sagemaker
+- Neo4j 
 - DynamoDB
 - MySQL
+- Kibana
 - Docker
 - Kubernetes
 
-APIs:
+# APIs:
 - Twilio
 - Plaid
 - OpenStreetMap
@@ -42,7 +44,7 @@ APIs:
 - Instagram
 - 
 
-HardWare:
+# HardWare:
 - Mac
 - Windows
 - Linux
@@ -51,9 +53,12 @@ HardWare:
 - NVIDIA Jetson Xavier NX
 - Raspberry Pi
 - Arduino 
+- Garmin Fenix 6
+- Oura Ring
+- 
 
 
-Python Packages:
+# Python Packages:
 - Pandas
 - Numpy
 - TensorFlow
@@ -68,11 +73,8 @@ Python Packages:
 - 
 
 
-Current and Past Projects:
+# Projects:
 
 - <insert link to instagram scraping project>
 - <insert link to Turtlebot/ROS project>
-- <insert link to Pill Container Project>
-
-
-This is neat. I hope this works! 
+- <insert link to Pill Container Project> 
