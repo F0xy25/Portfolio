@@ -2,7 +2,7 @@
 
 
 # Gavin Fox
-{LinkedIn}{linkedin.com/in/gavin-fox4}
+[LinkedIn](linkedin.com/in/gavin-fox4)
 
 # Certifications
 US Government Security Clearance Level: Secret
