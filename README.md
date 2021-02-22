@@ -2,8 +2,12 @@
 
 
 # Gavin Fox
+{LinkedIn}{linkedin.com/in/gavin-fox4}
 
+# Certifications
 US Government Security Clearance Level: Secret
+CITI: Human Subjects Research Certification
+CITI: Biomedical Research Certification
 
 # Topics of Experience:
 
@@ -16,6 +20,11 @@ US Government Security Clearance Level: Secret
 - Camera 2D depth perception
 - IoT SMS network development
 - MicroControllers and Single Board Computers
+- Node based collaboration analysis
+- temporal and location based hotspot mapping
+- Data collection and Study Management
+- Commercial Development
+- TensorFlow, TensorRT, and TensorLite
 
 # Programming Languages and Structures:
 - Python
@@ -39,14 +48,16 @@ US Government Security Clearance Level: Secret
 # APIs:
 - Twilio
 - Plaid
+- Facebook
+- Google
 - OpenStreetMap
 - Geocoder
 - Instagram
-- 
+- Pubmed
 
 # HardWare:
-- Mac
 - Windows
+- Mac
 - Linux
 - IOS
 - Android
@@ -55,21 +66,6 @@ US Government Security Clearance Level: Secret
 - Arduino 
 - Garmin Fenix 6
 - Oura Ring
-- 
-
-
-# Python Packages:
-- Pandas
-- Numpy
-- TensorFlow
-- Scipy
-- Numpy
-- OpenCV
-- Selenium
-- Pytorch
-- IpyWidgets
-- matplotlib
-- OS
 - 
 
 
