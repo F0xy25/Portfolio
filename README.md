@@ -2,8 +2,9 @@
 
 
 ## Gavin Fox
-LinkedIn: www.linkedin.com/in/gavin-fox4
-Email: 4gdfox@gmail.com
+- LinkedIn: www.linkedin.com/in/gavin-fox4
+- Email: 4gdfox@gmail.com
+- [Resume]
 
 # Certifications
 - US Government Security Clearance Level: Secret
@@ -25,7 +26,6 @@ Email: 4gdfox@gmail.com
 - Node-Based Collaboration Analysis
 - Foreign entity Market Penetration
 - Temporal and location based hotspot mapping
-- Data collection and Study Management
 
 
 # Programming Languages and Structures:
@@ -46,6 +46,8 @@ Email: 4gdfox@gmail.com
 - Kibana
 - Docker
 - Kubernetes
+- Fusion 360
+- Creo 
 
 # APIs:
 - Twilio
@@ -68,9 +70,10 @@ Email: 4gdfox@gmail.com
 - Arduino 
 - Garmin Fenix 6
 - Oura Ring
+- WatchOS
+- 
 - Dobot Magician
 - Turtlebot Burger
-- 
 
 
 # Projects:
