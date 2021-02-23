@@ -59,7 +59,7 @@
 - Instagram
 - Pubmed
 
-# HardWare:
+# Hardware:
 - Windows
 - Mac
 - Linux
@@ -71,7 +71,6 @@
 - Garmin Fenix 6
 - Oura Ring
 - WatchOS
-- 
 - Dobot Magician
 - Turtlebot Burger
 
