@@ -4,7 +4,7 @@
 ## Gavin Fox
 - LinkedIn: www.linkedin.com/in/gavin-fox4
 - Email: 4gdfox@gmail.com
-- [Resume]
+- [Resume](Gavin Fox Resume Updated 2:22:2021.pdf)
 
 # Certifications
 - US Government Security Clearance Level: Secret
