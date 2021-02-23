@@ -25,7 +25,6 @@
 - Camera 2D Depth Perception
 - IoT SMS Network Development
 - Node-Based Collaboration Analysis
-- Foreign entity Market Penetration
 - Temporal and location based hotspot mapping
 
 
