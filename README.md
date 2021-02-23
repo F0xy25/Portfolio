@@ -19,6 +19,7 @@
 - Image Processing/Segmentation
 - Gaze Detection
 - MicroControllers and Single Board Computers
+- Component Fabrication
 - Temporal Feature Extraction
 - ML Model deployment using TensorFlow, TensorRT, and TensorLite
 - Camera 2D Depth Perception
