@@ -4,6 +4,7 @@
 ## Gavin Fox
 - LinkedIn: www.linkedin.com/in/gavin-fox4
 - Email: 4gdfox@gmail.com
+- Company Website: https://dragonsci.com
 - [Resume](https://github.com/F0xy25/Portfolio/blob/master/Gavin%20Fox%20Resume%20Updated%202:22:2021.pdf)
 
 # Certifications
