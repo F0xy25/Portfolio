@@ -9,8 +9,19 @@
 
 # Certifications
 - US Government Security Clearance Level: Secret
-- CITI: Human Subjects Research Certification
-- CITI: Biomedical Research Certification
+- [Google Data Analytics Professional Certificate]()
+- [IBM AI Engineering Professional Certificate]()
+- [IBM Machine Learning Professional Certficate]()
+
+# Projects:
+
+## [Synthetic Ground Truth Data Generation for ML Model Training]()
+
+## [Cat Laser Toy Project]()
+
+## [Chessbot]()
+
+## [Machine Learning Webpage API]()
 
 # Topics of Experience(in order of specification):
 
@@ -29,55 +40,3 @@
 - Temporal and location based hotspot mapping
 
 
-# Programming Languages and Structures:
-- Python
-- C++
-- ROS
-- Matlab
-- Xamarin
-- AWS
-  - S3
-  - EC2
-  - Lambda
-  - API Gateway
-  - Sagemaker
-- Neo4j 
-- DynamoDB
-- MySQL
-- Kibana
-- Docker
-- Kubernetes
-- Fusion 360
-- Creo 
-
-# APIs:
-- Twilio
-- Plaid
-- Facebook
-- Google
-- OpenStreetMap
-- Geocoder
-- Instagram
-- Pubmed
-
-# Hardware:
-- Windows
-- Mac
-- Linux
-- IOS
-- Android
-- NVIDIA Jetson Xavier NX
-- Raspberry Pi
-- Arduino 
-- Garmin Fenix 6
-- Oura Ring
-- WatchOS
-- Dobot Magician
-- Turtlebot Burger
-
-
-# Projects:
-
-- 3D Photogrammetry using Social Media image data
-- Automated Paycheck allocation tool
-- Dobot Magician software package: convert from top-down cartesian to free plane coordinates 
