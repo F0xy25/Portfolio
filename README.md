@@ -1,6 +1,4 @@
 
-
-
 ## Gavin Fox
 - LinkedIn: www.linkedin.com/in/gavin-fox4
 - Email: 4gdfox@gmail.com
@@ -15,6 +13,8 @@
 
 # Projects:
 
+## [CHEF: Senior Design Project]()
+
 ## [Synthetic Ground Truth Data Generation for ML Model Training]()
 
 ## [Cat Laser Toy Project]()
@@ -22,6 +22,8 @@
 ## [Chessbot]()
 
 ## [Machine Learning Webpage API]()
+
+
 
 # Topics of Experience(in order of specification):
 
